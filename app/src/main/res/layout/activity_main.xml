@@ -50,6 +50,6 @@
         android:gravity="right"
         android:textSize="13dp"
         android:textColor="#555"
-        android:text="Designed By :\nKeshav Kabra\n(+91-7014722936)"/>
+        android:text="Designed By :\nKeshav Kabra\n(+91-XXXXXXXXXX)"/>
 
 </LinearLayout>
